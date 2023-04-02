@@ -9,8 +9,8 @@
 	- [One to One](https://github.com/dragunov-m/Django-Progress/blob/master/docs/5.%20%D0%98%D1%81%D0%BF%D0%BE%D0%BB%D1%8C%D0%B7%D0%BE%D0%B2%D0%B0%D0%BD%D0%B8%D0%B5%20%D1%81%D0%B2%D1%8F%D0%B7%D0%B5%D0%B9%20%D0%B2%20%D0%BC%D0%BE%D0%B4%D0%B5%D0%BB%D1%8F%D1%85.md#one-to-one)
 	- [One to Many](https://github.com/dragunov-m/Django-Progress/blob/master/docs/5.%20%D0%98%D1%81%D0%BF%D0%BE%D0%BB%D1%8C%D0%B7%D0%BE%D0%B2%D0%B0%D0%BD%D0%B8%D0%B5%20%D1%81%D0%B2%D1%8F%D0%B7%D0%B5%D0%B9%20%D0%B2%20%D0%BC%D0%BE%D0%B4%D0%B5%D0%BB%D1%8F%D1%85.md#one-to-many)
 	- [Many to Many](https://github.com/dragunov-m/Django-Progress/blob/master/docs/5.%20%D0%98%D1%81%D0%BF%D0%BE%D0%BB%D1%8C%D0%B7%D0%BE%D0%B2%D0%B0%D0%BD%D0%B8%D0%B5%20%D1%81%D0%B2%D1%8F%D0%B7%D0%B5%D0%B9%20%D0%B2%20%D0%BC%D0%BE%D0%B4%D0%B5%D0%BB%D1%8F%D1%85.md#many-to-many)
-6.  Создание форм
+6.  [Создание форм](https://github.com/dragunov-m/Django-Progress/blob/master/docs/6.%20%20%D0%A1%D0%BE%D0%B7%D0%B4%D0%B0%D0%BD%D0%B8%D0%B5%20%D1%84%D0%BE%D1%80%D0%BC.md)
 	- Шаблонная форма (POST и GET)[!]
 	- Модельная форма [!]
 	- Не модельная форма [!]
-7.  Аутентификация
+7.  [Аутентификация](https://github.com/dragunov-m/Django-Progress/blob/master/docs/7.%20%D0%90%D1%83%D1%82%D0%B5%D0%BD%D1%82%D0%B8%D1%84%D0%B8%D0%BA%D0%B0%D1%86%D0%B8%D1%8F.md)
